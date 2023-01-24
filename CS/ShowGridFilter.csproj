@@ -63,59 +63,59 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Printing.v15.1.Core">
-      <Name>DevExpress.Printing.v15.1.Core</Name>
+    <Reference Include="DevExpress.Printing.v13.1.Core">
+      <Name>DevExpress.Printing.v13.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.Data.v15.1">
-      <Name>DevExpress.Data.v15.1</Name>
+    <Reference Include="DevExpress.Data.v13.1">
+      <Name>DevExpress.Data.v13.1</Name>
     </Reference>
-    <Reference Include="DevExpress.Utils.v15.1">
-      <Name>DevExpress.Utils.v15.1</Name>
+    <Reference Include="DevExpress.Utils.v13.1">
+      <Name>DevExpress.Utils.v13.1</Name>
     </Reference>
-    <Reference Include="DevExpress.Charts.v15.1.Core">
-      <Name>DevExpress.Charts.v15.1.Core</Name>
+    <Reference Include="DevExpress.Charts.v13.1.Core">
+      <Name>DevExpress.Charts.v13.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v15.1.Wizard">
-      <Name>DevExpress.XtraCharts.v15.1.Wizard</Name>
+    <Reference Include="DevExpress.XtraCharts.v13.1.Wizard">
+      <Name>DevExpress.XtraCharts.v13.1.Wizard</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v15.1">
-      <Name>DevExpress.XtraCharts.v15.1</Name>
+    <Reference Include="DevExpress.XtraCharts.v13.1">
+      <Name>DevExpress.XtraCharts.v13.1</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v15.1">
-      <Name>DevExpress.XtraEditors.v15.1</Name>
+    <Reference Include="DevExpress.XtraEditors.v13.1">
+      <Name>DevExpress.XtraEditors.v13.1</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraGrid.v15.1">
-      <Name>DevExpress.XtraGrid.v15.1</Name>
+    <Reference Include="DevExpress.XtraGrid.v13.1">
+      <Name>DevExpress.XtraGrid.v13.1</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraPrinting.v15.1">
-      <Name>DevExpress.XtraPrinting.v15.1</Name>
+    <Reference Include="DevExpress.XtraPrinting.v13.1">
+      <Name>DevExpress.XtraPrinting.v13.1</Name>
     </Reference>
-    <Reference Include="DevExpress.PivotGrid.v15.1.Core">
-      <Name>DevExpress.PivotGrid.v15.1.Core</Name>
+    <Reference Include="DevExpress.PivotGrid.v13.1.Core">
+      <Name>DevExpress.PivotGrid.v13.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.Sparkline.v15.1.Core">
-      <Name>DevExpress.Sparkline.v15.1.Core</Name>
+    <Reference Include="DevExpress.Sparkline.v13.1.Core">
+      <Name>DevExpress.Sparkline.v13.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.Utils.v15.1.UI">
-      <Name>DevExpress.Utils.v15.1.UI</Name>
+    <Reference Include="DevExpress.Utils.v13.1.UI">
+      <Name>DevExpress.Utils.v13.1.UI</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraReports.v15.1.Extensions">
-      <Name>DevExpress.XtraReports.v15.1.Extensions</Name>
+    <Reference Include="DevExpress.XtraReports.v13.1.Extensions">
+      <Name>DevExpress.XtraReports.v13.1.Extensions</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraReports.v15.1">
-      <Name>DevExpress.XtraReports.v15.1</Name>
+    <Reference Include="DevExpress.XtraReports.v13.1">
+      <Name>DevExpress.XtraReports.v13.1</Name>
     </Reference>
-    <Reference Include="DevExpress.Docs.v15.1">
-      <Name>DevExpress.Docs.v15.1</Name>
+    <Reference Include="DevExpress.Docs.v13.1">
+      <Name>DevExpress.Docs.v13.1</Name>
     </Reference>
-    <Reference Include="DevExpress.Office.v15.1.Core">
-      <Name>DevExpress.Office.v15.1.Core</Name>
+    <Reference Include="DevExpress.Office.v13.1.Core">
+      <Name>DevExpress.Office.v13.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v15.1.Core">
-      <Name>DevExpress.RichEdit.v15.1.Core</Name>
+    <Reference Include="DevExpress.RichEdit.v13.1.Core">
+      <Name>DevExpress.RichEdit.v13.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraRichEdit.v15.1">
-      <Name>DevExpress.XtraRichEdit.v15.1</Name>
+    <Reference Include="DevExpress.XtraRichEdit.v13.1">
+      <Name>DevExpress.XtraRichEdit.v13.1</Name>
     </Reference>
     <Reference Include="System">
       <Name>System</Name>
